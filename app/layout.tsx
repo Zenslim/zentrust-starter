@@ -1,3 +1,5 @@
+import '../styles/globals.css';
+
 export const metadata = {
   title: 'ZenTrust – Healing Earth, Healing Ourselves',
   description: 'A sanctuary for regeneration, BPSS healing, and DAO-ready community living.',
