@@ -12,10 +12,11 @@
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
- "devDependencies": {
-  "typescript": "^5.3.3",
-  "@types/react": "^18.2.0",
-  "@types/node": "^20.8.10",
-  ...
-}
-
+  "devDependencies": {
+    "tailwindcss": "^3.3.3",
+    "postcss": "^8.4.21",
+    "autoprefixer": "^10.4.14",
+    "typescript": "^5.3.3",
+    "@types/react": "^18.2.0",
+    "@types/node": "^20.8.10"
+  }
